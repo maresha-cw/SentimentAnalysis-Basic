@@ -1,9 +1,10 @@
 # SentimentAnalysis-DataAnalysisFinal
 Sentiment Analysis using TensorFlow for Final Project Data Analysis Course
 
-Two files:
+Three files:
 - Sentiment Analysis Basic (Inspired by https://www.tensorflow.org/tutorials/keras/text_classification)
 - Sentiment Analysis with RNN (Inspired by https://www.tensorflow.org/text/tutorials/text_classification_rnn)
+- Visualisation of the Dataset and the prediction result
 
 Created by: Maresha C Wijanto and Cici Suhaeni
 
