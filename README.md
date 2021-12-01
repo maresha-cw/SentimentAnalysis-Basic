@@ -4,9 +4,9 @@ Sentiment Analysis using TensorFlow for Final Project Data Analysis Course
 Three files:
 - Sentiment Analysis Basic (Inspired by https://www.tensorflow.org/tutorials/keras/text_classification)
 - Sentiment Analysis with RNN (Inspired by https://www.tensorflow.org/text/tutorials/text_classification_rnn)
-- Visualisation of the Dataset and the prediction result
+- Visualisation of the Dataset and the prediction result (using WordCloud, Matplotlib, Pyplot)
 
-Created by: Maresha C Wijanto and Cici Suhaeni
+Created by: Maresha C Wijanto (211AIG05) and Cici Suhaeni (211AIG02)
 
 Dataset:
 - For Training and Validation: Sentiment140 dataset. It contains 1,600,000 tweets extracted using the Twitter API. The tweets have been annotated (0 = negative, 4 = positive). Created by Alec Go, Richa Bhayani, and Lei Huang, who were Computer Science graduate students at Stanford University.
